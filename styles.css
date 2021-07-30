@@ -8,7 +8,7 @@ html {
     width: 100vw;
     height: 100vh;
     font-size: 10px;
-    background: url('./images/background.jpg') bottom center;
+    background: url('./images/background_2.jpg') bottom center;
     background-size: cover;
     background-repeat: no-repeat;
     font-family: sans-serif;
@@ -40,7 +40,7 @@ body {
     background-color: rgba(0, 0, 0, 0.4) ;
     border: 0.4rem solid black;
     border-radius: 6px;
-    color: #ffc600;
+    color: #3dffbe;
     display: flex;
     flex: 1;
     flex-direction: column;
@@ -49,8 +49,8 @@ body {
 }
 
 .playing {
-    border: 0.4rem solid #ffc600;
-    box-shadow: 0 0 2rem #ffc600;
+    border: 0.4rem solid #3dffbe;
+    box-shadow: 0 0 5rem #3dffbe;
     transform: scale(1.1);
 }
 
